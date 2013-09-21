@@ -1,5 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+.c9revisions/
+=======
+>>>>>>> 2791fd8d808d328d550b6a998f96ebfddce76387
 lib-cov
 *.seed
 *.log
@@ -14,9 +19,13 @@ logs
 results
 
 npm-debug.log
+<<<<<<< HEAD
 =======
 .c9revisions/
 >>>>>>> Examples for all platforms we support
 =======
 .c9revisions/
 >>>>>>> Examples for all platforms we support
+=======
+>>>>>>> e8af7c1f73b9f089aff16cb87dc7adbf16bb5ea0
+>>>>>>> 2791fd8d808d328d550b6a998f96ebfddce76387
