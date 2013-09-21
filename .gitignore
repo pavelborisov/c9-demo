@@ -1,1 +1,18 @@
+<<<<<<< HEAD
 .c9revisions/
+=======
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
+>>>>>>> e8af7c1f73b9f089aff16cb87dc7adbf16bb5ea0
