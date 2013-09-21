@@ -1,0 +1,19 @@
+{
+  "name": "demo-project",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "~3.3.5",
+    "ejs": "~0.8.4"
+  },
+  "author": {
+    "name": "Pavel Borisov",
+    "email": "pborisov@naumen.ru"
+  },
+  "contributors": [
+    {
+      "name": "Pavel Borisov",
+      "email": "pborisov@naumen.ru"
+    }
+  ]
+}
